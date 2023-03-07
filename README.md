@@ -1,6 +1,6 @@
-# aap_june_major_project
+# app_june_major_project
 
-A new Flutter project.
+A new Flutter projectwith its Basics
 
 ## Getting Started
 
